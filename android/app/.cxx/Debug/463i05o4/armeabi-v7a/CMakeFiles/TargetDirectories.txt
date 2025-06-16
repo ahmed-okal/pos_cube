@@ -1,0 +1,2 @@
+C:/Users/ahmed/POS CUBE/android/app/.cxx/Debug/463i05o4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/POS CUBE/android/app/.cxx/Debug/463i05o4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,76 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  // Light theme colors
+  static const Color background = Color(0xffFFFFFF);
+  static const Color primaryColor = Color(0xff342B72);
+  static const Color secondaryColor = Color(0xff837DA7);
+  static const Color secondry = Color(0xff9A94D7);
+  static const Color third = Color(0xffE4E1F6);
+  static const Color primaryWithOpacity = Color(0xffEFEDFA);
+  static const Color primaryWithOpacity2 = Color(0xffD1CEE7);
+  static const Color primaryWithOpacity3 = Color(0xffE9E7F6);
+  static const Color white = Color(0xffFFFFFF);
+  static const Color black = Color(0xff000000);
+  static const Color lightGrey = Color(0xffF9F9FC);
+  static const Color grey = Color(0xff9D9D9D);
+  static const Color grey1 = Color(0xffD0D3DE);
+  static const Color grey2 = Color(0xffE0E0E0);
+  static const Color grey3 = Color(0xffC3C1DB);
+  static const Color darkGrey = Color(0xff5F6164);
+  static const Color error = Color(0xffAC5A5A);
+  static const Color lightPink = Color(0xffF1CECB);
+  static const Color lightGreen = Color(0xffECFAF6);
+  static const Color greenWithOpacity = Color(0xffF6FCFA);
+  static const Color lightRed = Color(0xffFFE1E1);
+  static const Color red = Color(0xff921B09);
+  static const Color darkRed = Color(0xff703C54);
+  static const Color green = Color(0xff2CA377);
+  static const Color darkGreen = Color(0xff328675);
+  static const Color pink = Color(0xffFFD4D0);
+  static const Color yellow = Color(0xffF3F2D7);
+  static const Color frostedMint = Color(0xffBEF1E1);
+  static const Color seafoamBlue = Color(0xff96CABF);
+  static const Color lavenderGray = Color(0xffA6A2C2);
+  static const Color lavenderGray2 = Color(0xffC4C1D3);
+  static const Color tablesBackground = Color(0xffF6F6F6);
+  static const Color darkGray = Color(0xff4F4F4F);
+  static const Color customerSelcet = Color(0xffF8F7FF);
+  static const Color mintGreen = Color(0xffD0F0EC);
+
+  // Dark theme colors
+  static const Color darkBackground = Color(0xFF121212);
+  static const Color darkPrimaryColor = Color(0xFF1E144A);
+  static const Color darkSecondaryColor = Color(0xFF4A4670);
+  static const Color darkSecondry = Color(0xFF6B6595);
+  static const Color darkThird = Color(0xFF2A2733);
+  static const Color darkPrimaryWithOpacity = Color(0xFF1F1C26);
+  static const Color darkPrimaryWithOpacity2 = Color(0xFF2B2836);
+  static const Color darkPrimaryWithOpacity3 = Color(0xFF24212D);
+  static const Color darkWhite = Color(0xFFFFFFFF);
+  static const Color darkBlack = Color(0xFF000000);
+  static const Color darkLightGrey = Color(0xFF1A1A1A);
+  static const Color darkMoodGrey = Color(0xFF707070);
+  static const Color darkGrey1 = Color(0xFF666677);
+  static const Color darkGrey2 = Color(0xFF767684);
+  static const Color darkGrey3 = Color(0xFF5E5C6F);
+  static const Color darkDarkGrey = Color(0xFFB0B0B0);
+  static const Color darkError = Color(0xFFEF9A9A);
+  static const Color darkLightGreen = Color(0xFF1E3128);
+  static const Color darkGreenWithOpacity = Color(0xFF1B2B24);
+  static const Color darkLightRed = Color(0xFF3A1F1F);
+  static const Color darkMoodRed = Color(0xFFB71C1C);
+  static const Color darkDarkRed = Color(0xFF4A2626);
+  static const Color darkMoodGreen = Color(0xFF1B4F3E);
+  static const Color darkDarkGreen = Color(0xFF1A392B);
+  static const Color darkPink = Color(0xFF4E3634);
+  static const Color darkYellow = Color(0xFF4A452F);
+  static const Color darkFrostedMint = Color(0xFF164E44);
+  static const Color darkSeafoamBlue = Color(0xFF2E4E4A);
+  static const Color darkLavenderGray = Color(0xFF48455A);
+  static const Color darkLavenderGray2 = Color(0xFF544F62);
+  static const Color darkTablesBackground = Color(0xFF1E1E1E);
+  static const Color darkDarkGray = Color(0xFFBDBDBD);
+  static const Color darkCustomerSelcet = Color(0xFF1B1A22);
+  static const Color darkMintGreen = Color(0xFF1A3F38);
+}

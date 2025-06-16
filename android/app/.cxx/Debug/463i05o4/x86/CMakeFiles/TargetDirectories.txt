@@ -1,0 +1,2 @@
+C:/Users/ahmed/POS CUBE/android/app/.cxx/Debug/463i05o4/x86/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/POS CUBE/android/app/.cxx/Debug/463i05o4/x86/CMakeFiles/rebuild_cache.dir

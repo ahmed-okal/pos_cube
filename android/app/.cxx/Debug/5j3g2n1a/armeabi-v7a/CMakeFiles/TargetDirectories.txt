@@ -1,0 +1,2 @@
+C:/Users/ahmed/point-of-sale-flutter-1-create-a-new-project-named-point-of-sale-flutter-and-push/android/app/.cxx/Debug/5j3g2n1a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/point-of-sale-flutter-1-create-a-new-project-named-point-of-sale-flutter-and-push/android/app/.cxx/Debug/5j3g2n1a/armeabi-v7a/CMakeFiles/rebuild_cache.dir

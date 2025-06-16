@@ -1,0 +1,41 @@
+class AppAssets {
+  static const String logo = 'assets/images/LogoPOSUBE1.png';
+  static const String foodTest = 'assets/images/food.png';
+  static const String emptyLottie = 'assets/lotties/empty.json';
+  static const String createSessionBackground =
+      'assets/images/create_session_background.png';
+  static const String loadingAnimation = 'assets/lotties/loading.json';
+  static const String errorImage = 'assets/images/image_not_found.png';
+  static const String logoPOSUBE = 'assets/images/LogoPOSUBE.png';
+  static const String appBarLogo = 'assets/images/app_bar_logo.png';
+  static const String noMeal = 'assets/images/no_meal.png';
+  static const String cashInOut = 'assets/icons/cash_in_out.svg';
+  static const String homeIcon = 'assets/icons/home_icon.svg';
+  static const String orderIcon = 'assets/icons/orders_icon.svg';
+  static const String reservationIcon = 'assets/icons/reservation_icon.svg';
+  static const String settingIcon = 'assets/icons/setting_icon.svg';
+  static const String peopleIcon = 'assets/icons/people.svg';
+  static const String searchIcon = 'assets/icons/search_icon.svg';
+  static const String addIcon = 'assets/icons/add_icon.svg';
+  static const String filterIcon = 'assets/icons/filter_icon.svg';
+  static const String arrowDownIcon = 'assets/icons/arrow_down.svg';
+  static const String notesIcon = 'assets/icons/notes_icon.svg';
+  static const String priceListIcon = 'assets/icons/price_list_icon.svg';
+  static const String quotationIcon = 'assets/icons/quotation_icon.svg';
+  static const String refundIcon = 'assets/icons/refund_icon.svg';
+  static const String taxIcon = 'assets/icons/tax_icon.svg';
+  static const String trashIcon = 'assets/icons/trash_icon.svg';
+  static const String table2Empty = 'assets/images/table2/0.png';
+  static const String table2OnePurple = 'assets/images/table2/1 purple.png';
+  static const String table2TwoPurple = 'assets/images/table2/2 purple.png';
+  static const String table2OneRed = 'assets/images/table2/1 red.png';
+  static const String table2TwoRed = 'assets/images/table2/2 red.png';
+  static const String table4Empty = 'assets/images/table4/0.png';
+  static const String table4TwoPurple = 'assets/images/table4/2P.png';
+  static const String table4TwoRed = 'assets/images/table4/2R.png';
+  static const String table4ThreePurple = 'assets/images/table4/3P.png';
+  static const String table4ThreeRed = 'assets/images/table4/3R.png';
+  static const String table4FourPurple = 'assets/images/table4/4P.png';
+  static const String table4FourRed = 'assets/images/table4/4R.png';
+  static const String table6Empty = 'assets/images/table6/0.png';
+}
